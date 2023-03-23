@@ -3,4 +3,13 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="PeopleDB.main" options="--add-modules java.sql" />
+      <module name="PeopleDB.test" options="--add-modules java.sql" />
+    </option>
+  </component>
+>>>>>>> Initial commit
 </project>
